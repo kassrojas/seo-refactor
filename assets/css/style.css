@@ -47,7 +47,7 @@ a {
     text-decoration: none;
 }
 
-/* added accessibility of underlining link user is hovering over */
+/* added accessibility of underlining link as user hovers over */
 a:hover {
     text-decoration: underline;
 }
