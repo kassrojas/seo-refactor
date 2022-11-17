@@ -46,6 +46,7 @@ a {
     text-decoration: none;
 }
 
+/* added accessibility of underlining link user is hovering over */
 a:hover {
     text-decoration: underline;
 }
@@ -89,17 +90,18 @@ p {
     color: #ffffff;
 }
 
-/* condensened formatting for articles*/
+/* condensened formatting for article's images*/
 .content2 img {
     max-height: 200px;
 }
 
-/* condensened formatting for articles*/
+/* condensened formatting for article's headings*/
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* reorganized css sheet to better match flow on corresponding HTML sheet */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -123,7 +125,7 @@ p {
     text-align: center;
 }
 
-/* condensed benefits-lead/brand/cost into a new class*/
+/* condensed benefits-lead/brand/cost images into a new class*/
 .benefits2 img {
     display: block;
     margin: 10px auto;
