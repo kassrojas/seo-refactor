@@ -1,6 +1,6 @@
 # SEO-Refactor
 
-[Link to my project](https://www.google.com)
+[Link to my project](https://kassrojas.github.io/seo-refactor/)
 
 ## Table of Contents
 - [Description](#description) 
