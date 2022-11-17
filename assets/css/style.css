@@ -75,14 +75,14 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.content_main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 /* condensened formatting for articles to remove redundant class declarations*/ 
-.content2 {
+.contents {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -91,18 +91,18 @@ p {
     color: #ffffff;
 }
 
-.content2 img {
+.contents img {
     max-height: 200px;
 }
 
-.content h2 {
+.contents h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 /* ----------- */
 
 /* reorganized css sheet to better match flow on corresponding HTML sheet */
-.benefits {
+.benefits_main {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -114,17 +114,17 @@ p {
 }
 
 /* condensed benefits-lead/brand/cost into a new class to remove redundant class declarations*/
-.benefits2 {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits2 h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits2 img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
